@@ -1,4 +1,4 @@
-package com.gayu.hibernateprojects;
+package de.gkasi.javaprojects;
 
 public class Laptop implements Comparable<Laptop>{
 	
